@@ -1,8 +1,12 @@
 :root {
     ---primary-color:#cd00cb;
+    ---primary-color-hover:#cd00cb;
+
+    ---secundary-color:#cd00cb;
+    ---secundary-color-hover:#cd00cb;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
